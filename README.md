@@ -3,10 +3,14 @@
 All eight labs of the course on one page. Each lab has three tabs:
 
 - **Content**: the lab sheet, with its examples, exercises and project.
-- **Project code**: the lab's project as one finished program, with examples of its real output, to copy or download.
+- **Project code**: the lab's project as one finished program, opened with one click after students have tried it, with examples of its real output.
 - **Quiz**: the lab's own click-only quiz, with no sign-in, and one score card per lab.
 
 Prepared by Dr. Ahmed M. AbdAl-Montalib.
+
+**Student link: https://ahmedabdalmontalib.github.io/computational-perception-labs/**
+
+<img src="qr.png" alt="QR code of the student link" width="220">
 
 ## Put it on GitHub Pages
 
